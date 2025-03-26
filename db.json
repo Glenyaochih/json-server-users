@@ -1,11 +1,44 @@
-{"users": [
-    
+{
+  "products": [
+    {
+      "id": 1,
+      "productId": "P123456",
+      "name": "FRK Swallow",
+      "type": "Surfboard",
+      "grade": "A",
+      "price": 8999,
+      "hasDiscount": false,
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I.png?v=1733520278&width=1600",
+      "imageUrls": [],
+      "description": "Crafted to unlock performance in waves 5' and under, Dan Mann designed the FRK Swallow to be the most versatile in the FRK quiver.",
+      "sizes": [
+        {
+          "quantity": 20,
+          "status": false,
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L"
+        },
+        {
+          "quantity": 10,
+          "status": false,
+          "size": "5'7\" x 18 9/16\" x 2 3/8\" x 26.3L"
+        },
+        {
+          "quantity": 5,
+          "status": false,
+          "size": "5'7\" x 18 9/16\" x 2 3/8\" x 26.3L"
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ],
+      "createdAt": "2025-02-10T05:35:04.000Z",
+      "updatedAt": "2025-03-10T14:04:46.000Z"
+    }
   ],
-  "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "carts": [],
+  "orders": [],
+  "waves": [],
+  "article": []
 }
