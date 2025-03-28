@@ -3,12 +3,12 @@
   "products": [
     {
       "id": 1,
-      "productId": "P123456",
+      "productId": "",
       "name": "FRK Swallow",
-      "category": "serfboard",
+      "category": "surfboard",
       "grade": "A",
-      "description": "Crafted to unlock performance in waves 5' and under, Dan Mann designed the FRK Swallow to be the most versatile in the FRK quiver.",
-      "rate": 5,
+      "price": 29370,
+      "description": "來認識 FRK 系列的新夥伴！為了在五呎以下的浪況中激發出極致表現，Dan Mann 特別設計了這款 FRK Swallow，讓它的性能比之前的任何 FRK 板型都還要更萬用。",
       "hasDiscount": false,
       "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I.png?v=1733520278&width=1600",
       "imageUrls": [
@@ -16,24 +16,47 @@
         "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I_R.png?v=1733520278&width=2000",
         "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I_B.png?v=1733520278&width=1600"
       ],
+      "system": ["FUTURES", "FCS-2"],
       "sizes": [
         {
-          "quantity": 20,
-          "price": 8899,
-          "status": false,
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L"
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
+          "stock": 5
         },
         {
-          "quantity": 10,
-          "price": 8699,
-          "status": false,
-          "size": "5'7\" x 18 9/16\" x 2 3/8\" x 26.3L"
+          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
+          "stock": 5
         },
         {
-          "quantity": 5,
-          "price": 8599,
-          "status": false,
-          "size": "5'7\" x 18 9/16\" x 2 3/8\" x 26.3L"
+          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
+          "stock": 5
+        },
+        {
+          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
+          "stock": 5
+        },
+        {
+          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
+          "stock": 5
+        },
+        {
+          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
+          "stock": 5
+        },
+        {
+          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
+          "stock": 5
+        },
+        {
+          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
+          "stock": 5
+        },
+        {
+          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
+          "stock": 5
+        },
+        {
+          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
+          "stock": 5
         }
       ],
       "colors": [
@@ -44,29 +67,291 @@
     },
     {
       "id": 2,
-      "productId": "P123400",
-      "name": "Machado Groove Fin Set",
-      "category": "fins",
+      "productId": "",
+      "name": "Great White Twin",
+      "category": "surfboard",
       "grade": "A",
-      "description": "performance",
-      "rate": 5,
+      "price": 32340,
+      "description": "受到大白鯊外觀的啟發，衝浪傳奇 Kelly Slater 攜手在峇里島的製板師 Mike Woo，運用 I-Bolic 技術和火山岩積層，打造出這款名為「Great White Twin」的衝浪板。",
       "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/GROOVE_M_L_3finset.png?v=1741287595&width=2000",
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_D.png?v=1733522218&width=1600",
       "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/GROOVE_M_L.png?v=1741120535&width=2000"
+        "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_R.png?v=1733522218&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_B.png?v=1733522218&width=1600"
       ],
+      "system": ["FUTURES", "FCS-2"],
       "sizes": [
         {
-          "set": "3 Fin-Set",
-          "system": "Futures",
-          "price": 1000,
-          "size": "large"
+          "size": "5'6\" x 18 3/4\" x 2 3/8\" x 26.3L",
+          "stock": 5
         },
         {
-          "set": "5 Fin-Set",
-          "system": "Futures",
-          "price": 1200,
-          "size": "large"
+          "size": "5'7\" x 19 1/16\" x 2 7/16\" x 27.5L",
+          "stock": 5
+        },
+        {
+          "size": "5'8\" x 19 3/8\" x 2 1/2\" x 29.0L",
+          "stock": 5
+        },
+        {
+          "size": "5'9\" x 19 5/8\" x 2 9/16\" x 30.5L",
+          "stock": 5
+        },
+        {
+          "size": "5'10\" x 19 15/16\" x 2 5/8\" x 32.0L",
+          "stock": 5
+        },
+        {
+          "size": "5'11\" x 20 3/16\" x 2 11/16\" x 34.0L",
+          "stock": 5
+        },
+        {
+          "size": "6'0\" x 20 1/2\" x 2 13/16\" x 36.0L",
+          "stock": 5
+        },
+        {
+          "size": "6'2\" x 21\" x 2 3/4\" x 37.7L",
+          "stock": 5
+        },
+        {
+          "size": "6'4\" x 21 9/16\" x 2 7/8\" x 41.2L",
+          "stock": 5
+        },
+        {
+          "size": "6'6\" x 22 1/8\" x 2 5/16\" x 44.3L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "productId": "",
+      "name": "Machadocado",
+      "category": "surfboard",
+      "grade": "A",
+      "price": 29370,
+      "description": "這就是你夏天的新寵兒啦！Rob Machado 以酪梨的線條為靈感，混搭魚板的特色和短板的性能，設計出這塊超讚的板子。有了這支 Machadocado，以前你可能連看都不看的迷你浪，現在都能輕鬆抓到，享受乘浪的樂趣！這可是 Rob 目前最厲害的方尾萬用款喔。不管你是老手還是新手，只要浪小，這塊板絕對是你最罩的衝浪好夥伴！",
+      "hasDiscount": false,
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H.png?v=1733520510&width=1600",
+      "imageUrls": [
+        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_D.png?v=1733520510&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_R.png?v=1733520510&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_B.png?v=1733520510&width=1600"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "5'2\" x 19 13/16\" x 2 1/4\" x 25.9L",
+          "stock": 5
+        },
+        {
+          "size": "5'4\" x 20 13/16\" x 2 1/4\" x 28.8L",
+          "stock": 5
+        },
+        {
+          "size": "5'5\" x 20 7/8\" x 2 3/8\" x 30.5L",
+          "stock": 5
+        },
+        {
+          "size": "5'6\" x 20 7/8\" x 2 9/16\" x 32.3L",
+          "stock": 5
+        },
+        {
+          "size": "5'7\" x 21 1/4\" x 2 9/16\" x 33.7L",
+          "stock": 5
+        },
+        {
+          "size": "5'8\" x 21 1/2\" x 2 1/2\" x 34.4L",
+          "stock": 5
+        },
+        {
+          "size": "5'9\" x 21 9/16\" x 2 9/16\" x 36.0L",
+          "stock": 5
+        },
+        {
+          "size": "5'10\" x 21 5/8\" x 2 11/16\" x 37.6L",
+          "stock": 5
+        },
+        {
+          "size": "5'11\" x 21 5/8\" x 2 11/16\" x 38.7L",
+          "stock": 5
+        },
+        {
+          "size": "6'0\" x 21 5/8\" x 2 3/4\" x 40.1L",
+          "stock": 5
+        },
+        {
+          "size": "6'1\" x 22\" x 2 7/8\" x 43.3L",
+          "stock": 5
+        },
+        {
+          "size": "6'2\" x 22 5/8\" x 2 15/16\" x 47.1L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "productId": "",
+      "name": "Taylor Jensen Twinzer",
+      "category": "surfboard",
+      "grade": "B",
+      "price": 31680,
+      "description": "認識一下 Taylor Jensen Twinzer，這可是 Stu Kenson 跟 Taylor Jensen 聯手搞出來的好東西！在聖地牙哥這位製板大師的經典設計上再進化，這支 Twinzer 就是更厲害的 Thruster。它讓你在浪上換向更順、轉更多，經典設計再升級啦！",
+      "hasDiscount": false,
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H.png?v=1736533055&width=1600",
+      "imageUrls": [
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_D.png?v=1736533055&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_R.png?v=1736533056&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_B.png?v=1736533056&width=1600"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "6'8\" x 21 1/2\" x 2 3/4\" x 43.7L",
+          "stock": 5
+        },
+        {
+          "size": "7'0\" x 21 5/8\" x 2 7/8\" x 48.4L",
+          "stock": 5
+        },
+        {
+          "size": "7'2\" x 21 7/8\" x 2 15/16\" x 51.3L",
+          "stock": 5
+        },
+        {
+          "size": "7'4\" x 22\" x 3\" x 54.1L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "productId": "",
+      "name": "Taylor Jensen Pro",
+      "category": "surfboard",
+      "grade": "C",
+      "price": 39930,
+      "description": "Taylor 跟 Dan Mann 聯手打造出這支 TJP，它的板底弧度比原本的 900R 再兇一點點，板尾也翹高一些。這樣一來，TJP 不但能讓你像騎長板一樣輕鬆滑浪，想做出更直上直下的帥氣動作也沒問題！",
+      "hasDiscount": false,
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V.png?v=1733521284&width=1600",
+      "imageUrls": [
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_D.png?v=1733521284&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_R.png?v=1733521284&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_B.png?v=1733521284&width=1600"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "9'0\" x 22 1/8\" x 2 5/8\" x 61.0L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "productId": "",
+      "name": "OP1 ",
+      "category": "surfboard",
+      "grade": "C",
+      "price": 39930,
+      "description": "Taylor 跟 Dan Mann 聯手打造出這支 TJP，它的板底弧度比原本的 900R 再兇一點點，板尾也翹高一些。這樣一來，TJP 不但能讓你像騎長板一樣輕鬆滑浪，想做出更直上直下的帥氣動作也沒問題！",
+      "hasDiscount": false,
+      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V.png?v=1733521284&width=1600",
+      "imageUrls": [
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_D.png?v=1733521284&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_R.png?v=1733521284&width=1600",
+        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_B.png?v=1733521284&width=1600"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "9'0\" x 22 1/8\" x 2 5/8\" x 61.0L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "productId": "",
+      "name": "FILE FIFTY",
+      "category": "surfboard",
+      "grade": "A",
+      "price": 25080,
+      "description": "The File Fifty from SharpEye Surfboards delivers the world’s fastest surfboard with Elite Performance.",
+      "hasDiscount": false,
+      "imageUrl": "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_002.jpg?v=1738199077&width=1860&width=1540",
+      "imageUrls": [
+        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_RR_B_b.jpg?v=1738199077&width=1860&width=1540",
+        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_W_B_b.jpg?v=1738199077&width=1860&width=1540",
+        "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_001a.jpg?v=1738199077&width=1860&width=1540"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
+          "stock": 5
+        },
+        {
+          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
+          "stock": 5
+        },
+        {
+          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
+          "stock": 5
+        },
+        {
+          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
+          "stock": 5
+        },
+        {
+          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
+          "stock": 5
+        },
+        {
+          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
+          "stock": 5
+        },
+        {
+          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
+          "stock": 5
+        },
+        {
+          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
+          "stock": 5
+        },
+        {
+          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
+          "stock": 5
+        },
+        {
+          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
+          "stock": 5
         }
       ],
       "colors": [
