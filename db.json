@@ -72,7 +72,7 @@
       "category": "surfboard",
       "grade": "A",
       "price": 32340,
-      "description": "受到大白鯊外觀的啟發，衝浪傳奇 Kelly Slater 攜手在峇里島的製板師 Mike Woo，運用 I-Bolic 技術和火山岩積層，打造出這款名為「Great White Twin」的衝浪板。",
+      "description": "這款 OP1 衝浪板是做給小浪在用的，浪高差不多在腰到頭之間嘟嘟好。它的板子做比較闊，邊邊比較厚實，翹度也比較平，這樣划水會比較輕鬆，遇到軟一點的浪也能順順仔滑起來。板底是從一個凹槽變兩個凹槽，尾巴後面還有做一個 V 字型的底，這樣在轉彎的時候會比較靈活，速度也比較快，轉彎的幅度也可以比較小，而且衝浪的時候也比較不會沒力。板子的長度建議比你身高矮個 2 到 4 吋左右。",
       "hasDiscount": false,
       "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_D.png?v=1733522218&width=1600",
       "imageUrls": [
@@ -275,13 +275,13 @@
       "category": "surfboard",
       "grade": "C",
       "price": 39930,
-      "description": "Taylor 跟 Dan Mann 聯手打造出這支 TJP，它的板底弧度比原本的 900R 再兇一點點，板尾也翹高一些。這樣一來，TJP 不但能讓你像騎長板一樣輕鬆滑浪，想做出更直上直下的帥氣動作也沒問題！",
+      "description": "這款 OP1 衝浪板，是特別設計給浪比較小的時候玩的，浪的高度大概到你的腰部到頭部之間都很適合。它的板子做得比較寬一點，邊邊也比較圓潤飽滿，板子頭尾翹起來的弧度也比較平緩，這樣你在水上划水的時候會比較輕鬆，遇到比較平緩、力量沒那麼大的浪也能順順地往前滑。板子底部的設計是前面一個凹下去的溝槽，到後面變成兩個凹槽，而且尾巴的地方還有一點點像英文字母 V 的形狀。這樣的設計可以讓你衝浪的時候比較有推進力，轉彎的時候也會比較靈活，可以很快地改變方向，而且轉彎的弧度也可以比較小。建議你選的板子長度比你的身高矮個大約 2 到 4 英寸左右會比較好駕馭。",
       "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V.png?v=1733521284&width=1600",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317085734-QGUJYKNJ8G5AX61I00WN/2023-Christenson+Surfboards-OP+Series-27.jpg?format=1000w",
       "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_D.png?v=1733521284&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_R.png?v=1733521284&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_B.png?v=1733521284&width=1600"
+        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317085497-QT526JBQDZIXRLHPOEST/2023-Christenson+Surfboards-OP+Series-34.jpg?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317174827-JN70GB0E7M63K086L2LB/2023-Christenson+Surfboards-OP+Series-41.jpg?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317342965-HXMYUBD9UBJQ0BDMBM6Z/2023-Christenson+Surfboards-OP+Series-43.jpg?format=2500w"
       ],
       "system": ["FUTURES", "FCS-2"],
       "sizes": [
@@ -359,11 +359,116 @@
           "color": "#aab4c7"
         }
       ]
+    },
+    {
+      "id": 8,
+      "productId": "",
+      "name": "OP2",
+      "category": "surfboard",
+      "grade": "A",
+      "price": 25080,
+      "description": "這款 OP2 衝浪板，是專門設計給浪比較大、比較有挑戰性的時候玩的，浪高大概從肩膀到比人高兩倍都有辦法衝。它的板子整體彎彎的，而且底部有一個很深的凹下去的溝槽，這樣的設計讓你在很陡峭的浪壁上也能做出很厲害、很垂直的動作。板子的長度建議跟你身高差不多，或是稍微短一點點就好（大概少個 0 到 1 吋）。這塊板是我們那些厲害的職業衝浪選手的最愛，他們想要展現最高超的技巧時，就會選這塊板。不過，這塊板比較適合有經驗的人，如果你是剛開始學衝浪的新手，可能還不太容易控制它喔！",
+      "hasDiscount": false,
+      "imageUrl": "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_002.jpg?v=1738199077&width=1860&width=1540",
+      "imageUrls": [
+        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_RR_B_b.jpg?v=1738199077&width=1860&width=1540",
+        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_W_B_b.jpg?v=1738199077&width=1860&width=1540",
+        "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_001a.jpg?v=1738199077&width=1860&width=1540"
+      ],
+      "system": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
+          "stock": 5
+        },
+        {
+          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
+          "stock": 5
+        },
+        {
+          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
+          "stock": 5
+        },
+        {
+          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
+          "stock": 5
+        },
+        {
+          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
+          "stock": 5
+        },
+        {
+          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
+          "stock": 5
+        },
+        {
+          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
+          "stock": 5
+        },
+        {
+          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
+          "stock": 5
+        },
+        {
+          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
+          "stock": 5
+        },
+        {
+          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "name": "Long Phish 2.0",
+      "category": "surfboard",
+      "grade": "C",
+      "price": 25080,
+      "description": "這款 Long Phish 2.0 衝浪板，是 Chris 最新設計的升級版。他和他的衝浪團隊選手 Beau Cram 不斷研究測試，就是要讓這塊板子變成市面上最好用、最能適應各種程度衝浪者的長板魚雷板。不管你是剛開始學衝浪的新手，還是已經很厲害的職業衝浪手，這塊板子都能讓你玩得很開心！",
+      "hasDiscount": false,
+      "imageUrl": "",
+      "imageUrls": [],
+      "finSystem": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
+    },
+    {
+      "title": "Scarlet Begonia",
+      "category": "surfboard",
+      "origin_price": 26000,
+      "price": 25080,
+      "unit": "張",
+      "grade": "C",
+      "description": "這塊衝浪板喔，是 Chris 以前一個很厲害的板型拿來改的，聽說偷偷加了很多撇步在裡面。它的中間跟後面做得比較闊，邊邊捏得很軟Q，有點像 Chris 那個招牌 CC landmark 的感覺。板頭就比較尖一點，然後下面有一個長長的、很順的凹槽。這樣你不管站前面站後面，要嚕方向、要切彎、要喬姿勢攏總很方便。重點是，滑起來一直都很順，感覺水水的，很有那個飄逸的感覺。它的板底弧度是特別做的，從尾巴到中間很趴，但是尾巴尾溜溜仔翹起來一點點，這樣保證你一直有速度，走到板頭也不會「犁田」。",
+      "hasDiscount": false,
+      "imageUrl": "",
+      "imageUrls": [],
+      "finSystem": ["FUTURES", "FCS-2"],
+      "sizes": [
+        {
+          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "#aab4c7"
+        }
+      ]
     }
-  ],
-  "carts": [],
-  "orders": [],
-  "waves": [],
-  "articles": [],
-  "imagesLoading": []
+  ]
 }
