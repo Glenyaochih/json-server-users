@@ -1,474 +1,1379 @@
 {
   "users": [],
-  "products": [
+  "statistics": [
     {
-      "id": 1,
-      "productId": "",
-      "name": "FRK Swallow",
-      "category": "surfboard",
-      "grade": "A",
-      "price": 29370,
-      "description": "來認識 FRK 系列的新夥伴！為了在五呎以下的浪況中激發出極致表現，Dan Mann 特別設計了這款 FRK Swallow，讓它的性能比之前的任何 FRK 板型都還要更萬用。",
-      "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I.png?v=1733520278&width=1600",
-      "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I_D.png?v=1733520278&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I_R.png?v=1733520278&width=2000",
-        "https://www.firewiresurfboards.com/cdn/shop/files/SD_Frk_Swallow_I_B.png?v=1733520278&width=1600"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
-          "stock": 5
-        },
-        {
-          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
-          "stock": 5
-        },
-        {
-          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
-          "stock": 5
-        },
-        {
-          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
-          "stock": 5
-        },
-        {
-          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
-          "stock": 5
-        },
-        {
-          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
-          "stock": 5
-        },
-        {
-          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
-          "stock": 5
-        },
-        {
-          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
-          "stock": 5
-        },
-        {
-          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
-          "stock": 5
-        },
-        {
-          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Australia",
+      "value": 9
     },
     {
-      "id": 2,
-      "productId": "",
-      "name": "Great White Twin",
-      "category": "surfboard",
-      "grade": "A",
-      "price": 32340,
-      "description": "這款 OP1 衝浪板是做給小浪在用的，浪高差不多在腰到頭之間嘟嘟好。它的板子做比較闊，邊邊比較厚實，翹度也比較平，這樣划水會比較輕鬆，遇到軟一點的浪也能順順仔滑起來。板底是從一個凹槽變兩個凹槽，尾巴後面還有做一個 V 字型的底，這樣在轉彎的時候會比較靈活，速度也比較快，轉彎的幅度也可以比較小，而且衝浪的時候也比較不會沒力。板子的長度建議比你身高矮個 2 到 4 吋左右。",
-      "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_D.png?v=1733522218&width=1600",
-      "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_R.png?v=1733522218&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/SD_GWT_V_B.png?v=1733522218&width=1600"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 3/4\" x 2 3/8\" x 26.3L",
-          "stock": 5
-        },
-        {
-          "size": "5'7\" x 19 1/16\" x 2 7/16\" x 27.5L",
-          "stock": 5
-        },
-        {
-          "size": "5'8\" x 19 3/8\" x 2 1/2\" x 29.0L",
-          "stock": 5
-        },
-        {
-          "size": "5'9\" x 19 5/8\" x 2 9/16\" x 30.5L",
-          "stock": 5
-        },
-        {
-          "size": "5'10\" x 19 15/16\" x 2 5/8\" x 32.0L",
-          "stock": 5
-        },
-        {
-          "size": "5'11\" x 20 3/16\" x 2 11/16\" x 34.0L",
-          "stock": 5
-        },
-        {
-          "size": "6'0\" x 20 1/2\" x 2 13/16\" x 36.0L",
-          "stock": 5
-        },
-        {
-          "size": "6'2\" x 21\" x 2 3/4\" x 37.7L",
-          "stock": 5
-        },
-        {
-          "size": "6'4\" x 21 9/16\" x 2 7/8\" x 41.2L",
-          "stock": 5
-        },
-        {
-          "size": "6'6\" x 22 1/8\" x 2 5/16\" x 44.3L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Austria",
+      "value": 11
     },
     {
-      "id": 3,
-      "productId": "",
-      "name": "Machadocado",
-      "category": "surfboard",
-      "grade": "A",
-      "price": 29370,
-      "description": "這就是你夏天的新寵兒啦！Rob Machado 以酪梨的線條為靈感，混搭魚板的特色和短板的性能，設計出這塊超讚的板子。有了這支 Machadocado，以前你可能連看都不看的迷你浪，現在都能輕鬆抓到，享受乘浪的樂趣！這可是 Rob 目前最厲害的方尾萬用款喔。不管你是老手還是新手，只要浪小，這塊板絕對是你最罩的衝浪好夥伴！",
-      "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H.png?v=1733520510&width=1600",
-      "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_D.png?v=1733520510&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_R.png?v=1733520510&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/RM_MachadoCado_H_B.png?v=1733520510&width=1600"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'2\" x 19 13/16\" x 2 1/4\" x 25.9L",
-          "stock": 5
-        },
-        {
-          "size": "5'4\" x 20 13/16\" x 2 1/4\" x 28.8L",
-          "stock": 5
-        },
-        {
-          "size": "5'5\" x 20 7/8\" x 2 3/8\" x 30.5L",
-          "stock": 5
-        },
-        {
-          "size": "5'6\" x 20 7/8\" x 2 9/16\" x 32.3L",
-          "stock": 5
-        },
-        {
-          "size": "5'7\" x 21 1/4\" x 2 9/16\" x 33.7L",
-          "stock": 5
-        },
-        {
-          "size": "5'8\" x 21 1/2\" x 2 1/2\" x 34.4L",
-          "stock": 5
-        },
-        {
-          "size": "5'9\" x 21 9/16\" x 2 9/16\" x 36.0L",
-          "stock": 5
-        },
-        {
-          "size": "5'10\" x 21 5/8\" x 2 11/16\" x 37.6L",
-          "stock": 5
-        },
-        {
-          "size": "5'11\" x 21 5/8\" x 2 11/16\" x 38.7L",
-          "stock": 5
-        },
-        {
-          "size": "6'0\" x 21 5/8\" x 2 3/4\" x 40.1L",
-          "stock": 5
-        },
-        {
-          "size": "6'1\" x 22\" x 2 7/8\" x 43.3L",
-          "stock": 5
-        },
-        {
-          "size": "6'2\" x 22 5/8\" x 2 15/16\" x 47.1L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Bahrain",
+      "value": 2
     },
     {
-      "id": 4,
-      "productId": "",
-      "name": "Taylor Jensen Twinzer",
-      "category": "surfboard",
-      "grade": "B",
-      "price": 31680,
-      "description": "認識一下 Taylor Jensen Twinzer，這可是 Stu Kenson 跟 Taylor Jensen 聯手搞出來的好東西！在聖地牙哥這位製板大師的經典設計上再進化，這支 Twinzer 就是更厲害的 Thruster。它讓你在浪上換向更順、轉更多，經典設計再升級啦！",
-      "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H.png?v=1736533055&width=1600",
-      "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_D.png?v=1736533055&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_R.png?v=1736533056&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Twinzer_H_B.png?v=1736533056&width=1600"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "6'8\" x 21 1/2\" x 2 3/4\" x 43.7L",
-          "stock": 5
-        },
-        {
-          "size": "7'0\" x 21 5/8\" x 2 7/8\" x 48.4L",
-          "stock": 5
-        },
-        {
-          "size": "7'2\" x 21 7/8\" x 2 15/16\" x 51.3L",
-          "stock": 5
-        },
-        {
-          "size": "7'4\" x 22\" x 3\" x 54.1L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Belgium",
+      "value": 25
     },
     {
-      "id": 5,
-      "productId": "",
-      "name": "Taylor Jensen Pro",
-      "category": "surfboard",
-      "grade": "C",
-      "price": 39930,
-      "description": "Taylor 跟 Dan Mann 聯手打造出這支 TJP，它的板底弧度比原本的 900R 再兇一點點，板尾也翹高一些。這樣一來，TJP 不但能讓你像騎長板一樣輕鬆滑浪，想做出更直上直下的帥氣動作也沒問題！",
-      "hasDiscount": false,
-      "imageUrl": "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V.png?v=1733521284&width=1600",
-      "imageUrls": [
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_D.png?v=1733521284&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_R.png?v=1733521284&width=1600",
-        "https://www.firewiresurfboards.com/cdn/shop/files/TJ_Pro_V_B.png?v=1733521284&width=1600"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "9'0\" x 22 1/8\" x 2 5/8\" x 61.0L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Brazil",
+      "value": 1
     },
     {
-      "id": 6,
-      "productId": "",
-      "name": "OP1 ",
-      "category": "surfboard",
-      "grade": "C",
-      "price": 39930,
-      "description": "這款 OP1 衝浪板，是特別設計給浪比較小的時候玩的，浪的高度大概到你的腰部到頭部之間都很適合。它的板子做得比較寬一點，邊邊也比較圓潤飽滿，板子頭尾翹起來的弧度也比較平緩，這樣你在水上划水的時候會比較輕鬆，遇到比較平緩、力量沒那麼大的浪也能順順地往前滑。板子底部的設計是前面一個凹下去的溝槽，到後面變成兩個凹槽，而且尾巴的地方還有一點點像英文字母 V 的形狀。這樣的設計可以讓你衝浪的時候比較有推進力，轉彎的時候也會比較靈活，可以很快地改變方向，而且轉彎的弧度也可以比較小。建議你選的板子長度比你的身高矮個大約 2 到 4 英寸左右會比較好駕馭。",
-      "hasDiscount": false,
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317085734-QGUJYKNJ8G5AX61I00WN/2023-Christenson+Surfboards-OP+Series-27.jpg?format=1000w",
-      "imageUrls": [
-        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317085497-QT526JBQDZIXRLHPOEST/2023-Christenson+Surfboards-OP+Series-34.jpg?format=1000w",
-        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317174827-JN70GB0E7M63K086L2LB/2023-Christenson+Surfboards-OP+Series-41.jpg?format=1000w",
-        "https://images.squarespace-cdn.com/content/v1/5c7c71b8b914495e8b4e1810/1692317342965-HXMYUBD9UBJQ0BDMBM6Z/2023-Christenson+Surfboards-OP+Series-43.jpg?format=2500w"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "9'0\" x 22 1/8\" x 2 5/8\" x 61.0L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Canada",
+      "value": 4
     },
     {
-      "id": 7,
-      "productId": "",
-      "name": "FILE FIFTY",
-      "category": "surfboard",
-      "grade": "A",
-      "price": 25080,
-      "description": "The File Fifty from SharpEye Surfboards delivers the world’s fastest surfboard with Elite Performance.",
-      "hasDiscount": false,
-      "imageUrl": "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_002.jpg?v=1738199077&width=1860&width=1540",
-      "imageUrls": [
-        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_RR_B_b.jpg?v=1738199077&width=1860&width=1540",
-        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_W_B_b.jpg?v=1738199077&width=1860&width=1540",
-        "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_001a.jpg?v=1738199077&width=1860&width=1540"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
-          "stock": 5
-        },
-        {
-          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
-          "stock": 5
-        },
-        {
-          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
-          "stock": 5
-        },
-        {
-          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
-          "stock": 5
-        },
-        {
-          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
-          "stock": 5
-        },
-        {
-          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
-          "stock": 5
-        },
-        {
-          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
-          "stock": 5
-        },
-        {
-          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
-          "stock": 5
-        },
-        {
-          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
-          "stock": 5
-        },
-        {
-          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Channel Islands",
+      "value": 9
     },
     {
-      "id": 8,
-      "productId": "",
-      "name": "OP2",
-      "category": "surfboard",
-      "grade": "A",
-      "price": 25080,
-      "description": "這款 OP2 衝浪板，是專門設計給浪比較大、比較有挑戰性的時候玩的，浪高大概從肩膀到比人高兩倍都有辦法衝。它的板子整體彎彎的，而且底部有一個很深的凹下去的溝槽，這樣的設計讓你在很陡峭的浪壁上也能做出很厲害、很垂直的動作。板子的長度建議跟你身高差不多，或是稍微短一點點就好（大概少個 0 到 1 吋）。這塊板是我們那些厲害的職業衝浪選手的最愛，他們想要展現最高超的技巧時，就會選這塊板。不過，這塊板比較適合有經驗的人，如果你是剛開始學衝浪的新手，可能還不太容易控制它喔！",
-      "hasDiscount": false,
-      "imageUrl": "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_002.jpg?v=1738199077&width=1860&width=1540",
-      "imageUrls": [
-        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_RR_B_b.jpg?v=1738199077&width=1860&width=1540",
-        "https://sharpeyesurfboards.com/cdn/shop/files/SE_FF_W_B_b.jpg?v=1738199077&width=1860&width=1540",
-        "https://sharpeyesurfboards.com/cdn/shop/files/White_Angles__FF_001a.jpg?v=1738199077&width=1860&width=1540"
-      ],
-      "system": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
-          "stock": 5
-        },
-        {
-          "size": "5'7\" x18 9/16\" x 2 3/8\" x 26.31",
-          "stock": 5
-        },
-        {
-          "size": "5'8\" x18 5/8\"x 2 7/16\" x 27.41",
-          "stock": 5
-        },
-        {
-          "size": "5'9\" x 18 7/8\" x2 1/2\" x 29L",
-          "stock": 5
-        },
-        {
-          "size": "5'10\" x 19 1/16\" x2 9/16\" x 30.2L",
-          "stock": 5
-        },
-        {
-          "size": "5'11\" x 19 1/4\" x 25/8\" x 31.94L",
-          "stock": 5
-        },
-        {
-          "size": "6' x 19 3/8\" x 2 11/16\" x 33.25L",
-          "stock": 5
-        },
-        {
-          "size": "6'1\" x 19 9/16\"x 2 11/16\" x 34.6L",
-          "stock": 5
-        },
-        {
-          "size": "6'2\" x 19 11/16\" x2 3/4\" x 36.1L",
-          "stock": 5
-        },
-        {
-          "size": "6'4\" x 20 1/8\" x2 13/16\" x38.7L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Cyprus",
+      "value": 8
     },
     {
-      "name": "Long Phish 2.0",
-      "category": "surfboard",
-      "grade": "C",
-      "price": 25080,
-      "description": "這款 Long Phish 2.0 衝浪板，是 Chris 最新設計的升級版。他和他的衝浪團隊選手 Beau Cram 不斷研究測試，就是要讓這塊板子變成市面上最好用、最能適應各種程度衝浪者的長板魚雷板。不管你是剛開始學衝浪的新手，還是已經很厲害的職業衝浪手，這塊板子都能讓你玩得很開心！",
-      "hasDiscount": false,
-      "imageUrl": "",
-      "imageUrls": [],
-      "finSystem": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Czech Republic",
+      "value": 1
     },
     {
-      "title": "Scarlet Begonia",
-      "category": "surfboard",
-      "origin_price": 26000,
-      "price": 25080,
-      "unit": "張",
-      "grade": "C",
-      "description": "這塊衝浪板喔，是 Chris 以前一個很厲害的板型拿來改的，聽說偷偷加了很多撇步在裡面。它的中間跟後面做得比較闊，邊邊捏得很軟Q，有點像 Chris 那個招牌 CC landmark 的感覺。板頭就比較尖一點，然後下面有一個長長的、很順的凹槽。這樣你不管站前面站後面，要嚕方向、要切彎、要喬姿勢攏總很方便。重點是，滑起來一直都很順，感覺水水的，很有那個飄逸的感覺。它的板底弧度是特別做的，從尾巴到中間很趴，但是尾巴尾溜溜仔翹起來一點點，這樣保證你一直有速度，走到板頭也不會「犁田」。",
-      "hasDiscount": false,
-      "imageUrl": "",
-      "imageUrls": [],
-      "finSystem": ["FUTURES", "FCS-2"],
-      "sizes": [
-        {
-          "size": "5'6\" x 18 1/2\" x 2 3/8\" x 25.7L",
-          "stock": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "#aab4c7"
-        }
-      ]
+      "country": "Denmark",
+      "value": 9
+    },
+    {
+      "country": "EIRE",
+      "value": 3
+    },
+    {
+      "country": "European Community",
+      "value": 1
+    },
+    {
+      "country": "Finland",
+      "value": 12
+    },
+    {
+      "country": "France",
+      "value": 87
+    },
+    {
+      "country": "Germany",
+      "value": 95
+    },
+    {
+      "country": "Greece",
+      "value": 4
+    },
+    {
+      "country": "Hong Kong",
+      "value": 0
+    },
+    {
+      "country": "Iceland",
+      "value": 1
+    },
+    {
+      "country": "Israel",
+      "value": 4
+    },
+    {
+      "country": "Italy",
+      "value": 15
+    },
+    {
+      "country": "Japan",
+      "value": 8
+    },
+    {
+      "country": "Lebanon",
+      "value": 1
+    },
+    {
+      "country": "Lithuania",
+      "value": 1
+    },
+    {
+      "country": "Malta",
+      "value": 2
+    },
+    {
+      "country": "Netherlands",
+      "value": 9
+    },
+    {
+      "country": "Norway",
+      "value": 10
+    },
+    {
+      "country": "Poland",
+      "value": 6
+    },
+    {
+      "country": "Portugal",
+      "value": 19
+    },
+    {
+      "country": "RSA",
+      "value": 1
+    },
+    {
+      "country": "Saudi Arabia",
+      "value": 1
+    },
+    {
+      "country": "Singapore",
+      "value": 1
+    },
+    {
+      "country": "Spain",
+      "value": 31
+    },
+    {
+      "country": "Sweden",
+      "value": 8
+    },
+    {
+      "country": "Switzerland",
+      "value": 21
+    },
+    {
+      "country": "USA",
+      "value": 4
+    },
+    {
+      "country": "United Arab Emirates",
+      "value": 2
+    },
+    {
+      "country": "United Kingdom",
+      "value": 3950
+    },
+    {
+      "country": "Unspecified",
+      "value": 4
+    }
+  ],
+  "daily_invoice": [
+    {
+      "date": "2010-12-01",
+      "count": 3108
+    },
+    {
+      "date": "2010-12-02",
+      "count": 2109
+    },
+    {
+      "date": "2010-12-03",
+      "count": 2202
+    },
+    {
+      "date": "2010-12-05",
+      "count": 2725
+    },
+    {
+      "date": "2010-12-06",
+      "count": 3878
+    },
+    {
+      "date": "2010-12-07",
+      "count": 2963
+    },
+    {
+      "date": "2010-12-08",
+      "count": 2647
+    },
+    {
+      "date": "2010-12-09",
+      "count": 2891
+    },
+    {
+      "date": "2010-12-10",
+      "count": 2758
+    },
+    {
+      "date": "2010-12-12",
+      "count": 1451
+    },
+    {
+      "date": "2010-12-13",
+      "count": 2283
+    },
+    {
+      "date": "2010-12-14",
+      "count": 2087
+    },
+    {
+      "date": "2010-12-15",
+      "count": 1349
+    },
+    {
+      "date": "2010-12-16",
+      "count": 1790
+    },
+    {
+      "date": "2010-12-17",
+      "count": 3115
+    },
+    {
+      "date": "2010-12-19",
+      "count": 522
+    },
+    {
+      "date": "2010-12-20",
+      "count": 1763
+    },
+    {
+      "date": "2010-12-21",
+      "count": 1586
+    },
+    {
+      "date": "2010-12-22",
+      "count": 291
+    },
+    {
+      "date": "2010-12-23",
+      "count": 963
+    },
+    {
+      "date": "2011-01-04",
+      "count": 1184
+    },
+    {
+      "date": "2011-01-05",
+      "count": 1743
+    },
+    {
+      "date": "2011-01-06",
+      "count": 1832
+    },
+    {
+      "date": "2011-01-07",
+      "count": 1794
+    },
+    {
+      "date": "2011-01-09",
+      "count": 1117
+    },
+    {
+      "date": "2011-01-10",
+      "count": 1976
+    },
+    {
+      "date": "2011-01-11",
+      "count": 1454
+    },
+    {
+      "date": "2011-01-12",
+      "count": 1809
+    },
+    {
+      "date": "2011-01-13",
+      "count": 1445
+    },
+    {
+      "date": "2011-01-14",
+      "count": 1510
+    },
+    {
+      "date": "2011-01-16",
+      "count": 646
+    },
+    {
+      "date": "2011-01-17",
+      "count": 2557
+    },
+    {
+      "date": "2011-01-18",
+      "count": 1447
+    },
+    {
+      "date": "2011-01-19",
+      "count": 1416
+    },
+    {
+      "date": "2011-01-20",
+      "count": 1502
+    },
+    {
+      "date": "2011-01-21",
+      "count": 1594
+    },
+    {
+      "date": "2011-01-23",
+      "count": 879
+    },
+    {
+      "date": "2011-01-24",
+      "count": 1485
+    },
+    {
+      "date": "2011-01-25",
+      "count": 1654
+    },
+    {
+      "date": "2011-01-26",
+      "count": 1289
+    },
+    {
+      "date": "2011-01-27",
+      "count": 1575
+    },
+    {
+      "date": "2011-01-28",
+      "count": 1008
+    },
+    {
+      "date": "2011-01-30",
+      "count": 722
+    },
+    {
+      "date": "2011-01-31",
+      "count": 1509
+    },
+    {
+      "date": "2011-02-01",
+      "count": 1574
+    },
+    {
+      "date": "2011-02-02",
+      "count": 1411
+    },
+    {
+      "date": "2011-02-03",
+      "count": 989
+    },
+    {
+      "date": "2011-02-04",
+      "count": 1232
+    },
+    {
+      "date": "2011-02-06",
+      "count": 279
+    },
+    {
+      "date": "2011-02-07",
+      "count": 1261
+    },
+    {
+      "date": "2011-02-08",
+      "count": 1228
+    },
+    {
+      "date": "2011-02-09",
+      "count": 879
+    },
+    {
+      "date": "2011-02-10",
+      "count": 785
+    },
+    {
+      "date": "2011-02-11",
+      "count": 957
+    },
+    {
+      "date": "2011-02-13",
+      "count": 624
+    },
+    {
+      "date": "2011-02-14",
+      "count": 1108
+    },
+    {
+      "date": "2011-02-15",
+      "count": 1335
+    },
+    {
+      "date": "2011-02-16",
+      "count": 1191
+    },
+    {
+      "date": "2011-02-17",
+      "count": 1719
+    },
+    {
+      "date": "2011-02-18",
+      "count": 854
+    },
+    {
+      "date": "2011-02-20",
+      "count": 864
+    },
+    {
+      "date": "2011-02-21",
+      "count": 1425
+    },
+    {
+      "date": "2011-02-22",
+      "count": 1593
+    },
+    {
+      "date": "2011-02-23",
+      "count": 1578
+    },
+    {
+      "date": "2011-02-24",
+      "count": 1294
+    },
+    {
+      "date": "2011-02-25",
+      "count": 978
+    },
+    {
+      "date": "2011-02-27",
+      "count": 812
+    },
+    {
+      "date": "2011-02-28",
+      "count": 1737
+    },
+    {
+      "date": "2011-03-01",
+      "count": 1361
+    },
+    {
+      "date": "2011-03-02",
+      "count": 935
+    },
+    {
+      "date": "2011-03-03",
+      "count": 1389
+    },
+    {
+      "date": "2011-03-04",
+      "count": 1107
+    },
+    {
+      "date": "2011-03-06",
+      "count": 844
+    },
+    {
+      "date": "2011-03-07",
+      "count": 1971
+    },
+    {
+      "date": "2011-03-08",
+      "count": 1600
+    },
+    {
+      "date": "2011-03-09",
+      "count": 1277
+    },
+    {
+      "date": "2011-03-10",
+      "count": 1131
+    },
+    {
+      "date": "2011-03-11",
+      "count": 959
+    },
+    {
+      "date": "2011-03-13",
+      "count": 537
+    },
+    {
+      "date": "2011-03-14",
+      "count": 1111
+    },
+    {
+      "date": "2011-03-15",
+      "count": 1292
+    },
+    {
+      "date": "2011-03-16",
+      "count": 874
+    },
+    {
+      "date": "2011-03-17",
+      "count": 2074
+    },
+    {
+      "date": "2011-03-18",
+      "count": 1379
+    },
+    {
+      "date": "2011-03-20",
+      "count": 1453
+    },
+    {
+      "date": "2011-03-21",
+      "count": 1068
+    },
+    {
+      "date": "2011-03-22",
+      "count": 2384
+    },
+    {
+      "date": "2011-03-23",
+      "count": 1319
+    },
+    {
+      "date": "2011-03-24",
+      "count": 1577
+    },
+    {
+      "date": "2011-03-25",
+      "count": 1386
+    },
+    {
+      "date": "2011-03-27",
+      "count": 737
+    },
+    {
+      "date": "2011-03-28",
+      "count": 1672
+    },
+    {
+      "date": "2011-03-29",
+      "count": 1983
+    },
+    {
+      "date": "2011-03-30",
+      "count": 1590
+    },
+    {
+      "date": "2011-03-31",
+      "count": 1738
+    },
+    {
+      "date": "2011-04-01",
+      "count": 1261
+    },
+    {
+      "date": "2011-04-03",
+      "count": 731
+    },
+    {
+      "date": "2011-04-04",
+      "count": 1705
+    },
+    {
+      "date": "2011-04-05",
+      "count": 1215
+    },
+    {
+      "date": "2011-04-06",
+      "count": 1122
+    },
+    {
+      "date": "2011-04-07",
+      "count": 1527
+    },
+    {
+      "date": "2011-04-08",
+      "count": 1441
+    },
+    {
+      "date": "2011-04-10",
+      "count": 940
+    },
+    {
+      "date": "2011-04-11",
+      "count": 1259
+    },
+    {
+      "date": "2011-04-12",
+      "count": 1152
+    },
+    {
+      "date": "2011-04-13",
+      "count": 1052
+    },
+    {
+      "date": "2011-04-14",
+      "count": 1608
+    },
+    {
+      "date": "2011-04-15",
+      "count": 1483
+    },
+    {
+      "date": "2011-04-17",
+      "count": 968
+    },
+    {
+      "date": "2011-04-18",
+      "count": 3208
+    },
+    {
+      "date": "2011-04-19",
+      "count": 1887
+    },
+    {
+      "date": "2011-04-20",
+      "count": 1025
+    },
+    {
+      "date": "2011-04-21",
+      "count": 1930
+    },
+    {
+      "date": "2011-04-26",
+      "count": 1903
+    },
+    {
+      "date": "2011-04-27",
+      "count": 1307
+    },
+    {
+      "date": "2011-04-28",
+      "count": 1192
+    },
+    {
+      "date": "2011-05-01",
+      "count": 452
+    },
+    {
+      "date": "2011-05-03",
+      "count": 1449
+    },
+    {
+      "date": "2011-05-04",
+      "count": 1161
+    },
+    {
+      "date": "2011-05-05",
+      "count": 1838
+    },
+    {
+      "date": "2011-05-06",
+      "count": 2051
+    },
+    {
+      "date": "2011-05-08",
+      "count": 1506
+    },
+    {
+      "date": "2011-05-09",
+      "count": 1766
+    },
+    {
+      "date": "2011-05-10",
+      "count": 2586
+    },
+    {
+      "date": "2011-05-11",
+      "count": 1701
+    },
+    {
+      "date": "2011-05-12",
+      "count": 1965
+    },
+    {
+      "date": "2011-05-13",
+      "count": 1425
+    },
+    {
+      "date": "2011-05-15",
+      "count": 809
+    },
+    {
+      "date": "2011-05-16",
+      "count": 1609
+    },
+    {
+      "date": "2011-05-17",
+      "count": 1932
+    },
+    {
+      "date": "2011-05-18",
+      "count": 1366
+    },
+    {
+      "date": "2011-05-19",
+      "count": 1949
+    },
+    {
+      "date": "2011-05-20",
+      "count": 1129
+    },
+    {
+      "date": "2011-05-22",
+      "count": 1564
+    },
+    {
+      "date": "2011-05-23",
+      "count": 1646
+    },
+    {
+      "date": "2011-05-24",
+      "count": 1750
+    },
+    {
+      "date": "2011-05-25",
+      "count": 1322
+    },
+    {
+      "date": "2011-05-26",
+      "count": 971
+    },
+    {
+      "date": "2011-05-27",
+      "count": 1170
+    },
+    {
+      "date": "2011-05-29",
+      "count": 632
+    },
+    {
+      "date": "2011-05-31",
+      "count": 1281
+    },
+    {
+      "date": "2011-06-01",
+      "count": 1456
+    },
+    {
+      "date": "2011-06-02",
+      "count": 1588
+    },
+    {
+      "date": "2011-06-03",
+      "count": 858
+    },
+    {
+      "date": "2011-06-05",
+      "count": 1561
+    },
+    {
+      "date": "2011-06-06",
+      "count": 1229
+    },
+    {
+      "date": "2011-06-07",
+      "count": 1926
+    },
+    {
+      "date": "2011-06-08",
+      "count": 2327
+    },
+    {
+      "date": "2011-06-09",
+      "count": 1850
+    },
+    {
+      "date": "2011-06-10",
+      "count": 1067
+    },
+    {
+      "date": "2011-06-12",
+      "count": 1075
+    },
+    {
+      "date": "2011-06-13",
+      "count": 1472
+    },
+    {
+      "date": "2011-06-14",
+      "count": 1587
+    },
+    {
+      "date": "2011-06-15",
+      "count": 1718
+    },
+    {
+      "date": "2011-06-16",
+      "count": 1534
+    },
+    {
+      "date": "2011-06-17",
+      "count": 961
+    },
+    {
+      "date": "2011-06-19",
+      "count": 1167
+    },
+    {
+      "date": "2011-06-20",
+      "count": 2020
+    },
+    {
+      "date": "2011-06-21",
+      "count": 1538
+    },
+    {
+      "date": "2011-06-22",
+      "count": 1017
+    },
+    {
+      "date": "2011-06-23",
+      "count": 1973
+    },
+    {
+      "date": "2011-06-24",
+      "count": 1039
+    },
+    {
+      "date": "2011-06-26",
+      "count": 708
+    },
+    {
+      "date": "2011-06-27",
+      "count": 1182
+    },
+    {
+      "date": "2011-06-28",
+      "count": 1043
+    },
+    {
+      "date": "2011-06-29",
+      "count": 1358
+    },
+    {
+      "date": "2011-06-30",
+      "count": 1620
+    },
+    {
+      "date": "2011-07-01",
+      "count": 1027
+    },
+    {
+      "date": "2011-07-03",
+      "count": 602
+    },
+    {
+      "date": "2011-07-04",
+      "count": 2200
+    },
+    {
+      "date": "2011-07-05",
+      "count": 2202
+    },
+    {
+      "date": "2011-07-06",
+      "count": 1816
+    },
+    {
+      "date": "2011-07-07",
+      "count": 1940
+    },
+    {
+      "date": "2011-07-08",
+      "count": 1630
+    },
+    {
+      "date": "2011-07-10",
+      "count": 820
+    },
+    {
+      "date": "2011-07-11",
+      "count": 1515
+    },
+    {
+      "date": "2011-07-12",
+      "count": 1667
+    },
+    {
+      "date": "2011-07-13",
+      "count": 1618
+    },
+    {
+      "date": "2011-07-14",
+      "count": 1734
+    },
+    {
+      "date": "2011-07-15",
+      "count": 1136
+    },
+    {
+      "date": "2011-07-17",
+      "count": 1248
+    },
+    {
+      "date": "2011-07-18",
+      "count": 2234
+    },
+    {
+      "date": "2011-07-19",
+      "count": 1667
+    },
+    {
+      "date": "2011-07-20",
+      "count": 2015
+    },
+    {
+      "date": "2011-07-21",
+      "count": 1570
+    },
+    {
+      "date": "2011-07-22",
+      "count": 1301
+    },
+    {
+      "date": "2011-07-24",
+      "count": 1125
+    },
+    {
+      "date": "2011-07-25",
+      "count": 1946
+    },
+    {
+      "date": "2011-07-26",
+      "count": 1279
+    },
+    {
+      "date": "2011-07-27",
+      "count": 1259
+    },
+    {
+      "date": "2011-07-28",
+      "count": 1565
+    },
+    {
+      "date": "2011-07-29",
+      "count": 1131
+    },
+    {
+      "date": "2011-07-31",
+      "count": 1271
+    },
+    {
+      "date": "2011-08-01",
+      "count": 1200
+    },
+    {
+      "date": "2011-08-02",
+      "count": 1369
+    },
+    {
+      "date": "2011-08-03",
+      "count": 1560
+    },
+    {
+      "date": "2011-08-04",
+      "count": 1839
+    },
+    {
+      "date": "2011-08-05",
+      "count": 1455
+    },
+    {
+      "date": "2011-08-07",
+      "count": 541
+    },
+    {
+      "date": "2011-08-08",
+      "count": 1490
+    },
+    {
+      "date": "2011-08-09",
+      "count": 1119
+    },
+    {
+      "date": "2011-08-10",
+      "count": 1376
+    },
+    {
+      "date": "2011-08-11",
+      "count": 1984
+    },
+    {
+      "date": "2011-08-12",
+      "count": 1122
+    },
+    {
+      "date": "2011-08-14",
+      "count": 557
+    },
+    {
+      "date": "2011-08-15",
+      "count": 926
+    },
+    {
+      "date": "2011-08-16",
+      "count": 1035
+    },
+    {
+      "date": "2011-08-17",
+      "count": 1666
+    },
+    {
+      "date": "2011-08-18",
+      "count": 1539
+    },
+    {
+      "date": "2011-08-19",
+      "count": 819
+    },
+    {
+      "date": "2011-08-21",
+      "count": 1070
+    },
+    {
+      "date": "2011-08-22",
+      "count": 1272
+    },
+    {
+      "date": "2011-08-23",
+      "count": 1458
+    },
+    {
+      "date": "2011-08-24",
+      "count": 1876
+    },
+    {
+      "date": "2011-08-25",
+      "count": 1342
+    },
+    {
+      "date": "2011-08-26",
+      "count": 929
+    },
+    {
+      "date": "2011-08-28",
+      "count": 1200
+    },
+    {
+      "date": "2011-08-30",
+      "count": 3235
+    },
+    {
+      "date": "2011-08-31",
+      "count": 1305
+    },
+    {
+      "date": "2011-09-01",
+      "count": 1405
+    },
+    {
+      "date": "2011-09-02",
+      "count": 2376
+    },
+    {
+      "date": "2011-09-04",
+      "count": 1343
+    },
+    {
+      "date": "2011-09-05",
+      "count": 1587
+    },
+    {
+      "date": "2011-09-06",
+      "count": 1140
+    },
+    {
+      "date": "2011-09-07",
+      "count": 2112
+    },
+    {
+      "date": "2011-09-08",
+      "count": 1779
+    },
+    {
+      "date": "2011-09-09",
+      "count": 1607
+    },
+    {
+      "date": "2011-09-11",
+      "count": 2032
+    },
+    {
+      "date": "2011-09-12",
+      "count": 1702
+    },
+    {
+      "date": "2011-09-13",
+      "count": 2438
+    },
+    {
+      "date": "2011-09-14",
+      "count": 1376
+    },
+    {
+      "date": "2011-09-15",
+      "count": 2197
+    },
+    {
+      "date": "2011-09-16",
+      "count": 1475
+    },
+    {
+      "date": "2011-09-18",
+      "count": 1274
+    },
+    {
+      "date": "2011-09-19",
+      "count": 1436
+    },
+    {
+      "date": "2011-09-20",
+      "count": 1718
+    },
+    {
+      "date": "2011-09-21",
+      "count": 3129
+    },
+    {
+      "date": "2011-09-22",
+      "count": 2748
+    },
+    {
+      "date": "2011-09-23",
+      "count": 2642
+    },
+    {
+      "date": "2011-09-25",
+      "count": 1987
+    },
+    {
+      "date": "2011-09-26",
+      "count": 1554
+    },
+    {
+      "date": "2011-09-27",
+      "count": 1897
+    },
+    {
+      "date": "2011-09-28",
+      "count": 2877
+    },
+    {
+      "date": "2011-09-29",
+      "count": 2508
+    },
+    {
+      "date": "2011-09-30",
+      "count": 1887
+    },
+    {
+      "date": "2011-10-02",
+      "count": 1429
+    },
+    {
+      "date": "2011-10-03",
+      "count": 2296
+    },
+    {
+      "date": "2011-10-04",
+      "count": 2797
+    },
+    {
+      "date": "2011-10-05",
+      "count": 2447
+    },
+    {
+      "date": "2011-10-06",
+      "count": 3189
+    },
+    {
+      "date": "2011-10-07",
+      "count": 2426
+    },
+    {
+      "date": "2011-10-09",
+      "count": 1292
+    },
+    {
+      "date": "2011-10-10",
+      "count": 3232
+    },
+    {
+      "date": "2011-10-11",
+      "count": 2467
+    },
+    {
+      "date": "2011-10-12",
+      "count": 2193
+    },
+    {
+      "date": "2011-10-13",
+      "count": 2358
+    },
+    {
+      "date": "2011-10-14",
+      "count": 1810
+    },
+    {
+      "date": "2011-10-16",
+      "count": 1254
+    },
+    {
+      "date": "2011-10-17",
+      "count": 2944
+    },
+    {
+      "date": "2011-10-18",
+      "count": 2908
+    },
+    {
+      "date": "2011-10-19",
+      "count": 2318
+    },
+    {
+      "date": "2011-10-20",
+      "count": 2350
+    },
+    {
+      "date": "2011-10-21",
+      "count": 1404
+    },
+    {
+      "date": "2011-10-23",
+      "count": 1728
+    },
+    {
+      "date": "2011-10-24",
+      "count": 2976
+    },
+    {
+      "date": "2011-10-25",
+      "count": 2492
+    },
+    {
+      "date": "2011-10-26",
+      "count": 1930
+    },
+    {
+      "date": "2011-10-27",
+      "count": 2540
+    },
+    {
+      "date": "2011-10-28",
+      "count": 1641
+    },
+    {
+      "date": "2011-10-30",
+      "count": 2907
+    },
+    {
+      "date": "2011-10-31",
+      "count": 3414
+    },
+    {
+      "date": "2011-11-01",
+      "count": 1786
+    },
+    {
+      "date": "2011-11-02",
+      "count": 2632
+    },
+    {
+      "date": "2011-11-03",
+      "count": 2419
+    },
+    {
+      "date": "2011-11-04",
+      "count": 3011
+    },
+    {
+      "date": "2011-11-06",
+      "count": 3437
+    },
+    {
+      "date": "2011-11-07",
+      "count": 2099
+    },
+    {
+      "date": "2011-11-08",
+      "count": 4070
+    },
+    {
+      "date": "2011-11-09",
+      "count": 2716
+    },
+    {
+      "date": "2011-11-10",
+      "count": 3275
+    },
+    {
+      "date": "2011-11-11",
+      "count": 4089
+    },
+    {
+      "date": "2011-11-13",
+      "count": 3018
+    },
+    {
+      "date": "2011-11-14",
+      "count": 3597
+    },
+    {
+      "date": "2011-11-15",
+      "count": 3445
+    },
+    {
+      "date": "2011-11-16",
+      "count": 4195
+    },
+    {
+      "date": "2011-11-17",
+      "count": 3621
+    },
+    {
+      "date": "2011-11-18",
+      "count": 2920
+    },
+    {
+      "date": "2011-11-20",
+      "count": 3334
+    },
+    {
+      "date": "2011-11-21",
+      "count": 2930
+    },
+    {
+      "date": "2011-11-22",
+      "count": 3967
+    },
+    {
+      "date": "2011-11-23",
+      "count": 3619
+    },
+    {
+      "date": "2011-11-24",
+      "count": 3766
+    },
+    {
+      "date": "2011-11-25",
+      "count": 3125
+    },
+    {
+      "date": "2011-11-27",
+      "count": 2543
+    },
+    {
+      "date": "2011-11-28",
+      "count": 3330
+    },
+    {
+      "date": "2011-11-29",
+      "count": 4313
+    },
+    {
+      "date": "2011-11-30",
+      "count": 3454
+    },
+    {
+      "date": "2011-12-01",
+      "count": 2901
+    },
+    {
+      "date": "2011-12-02",
+      "count": 2880
+    },
+    {
+      "date": "2011-12-04",
+      "count": 2038
+    },
+    {
+      "date": "2011-12-05",
+      "count": 5331
+    },
+    {
+      "date": "2011-12-06",
+      "count": 3365
+    },
+    {
+      "date": "2011-12-07",
+      "count": 2438
+    },
+    {
+      "date": "2011-12-08",
+      "count": 4940
+    },
+    {
+      "date": "2011-12-09",
+      "count": 1632
     }
   ]
 }
